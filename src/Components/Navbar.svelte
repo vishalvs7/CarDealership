@@ -5,8 +5,8 @@
           <div class="flex h-16 items-center justify-between">
             <div class="md:flex md:items-center md:gap-12">
               <a class="block text-teal-600" href="/">
-                <span class="sr-only">Home</span>
-                <h2>CarDealership</h2>
+                <span class="  sr-only">Home</span>
+                <h2 class=" text-white">CarDealership</h2>
               </a>
             </div>
       
@@ -20,14 +20,7 @@
                   <li>
                     <a class=" transition  text-teal-400 hover:text-teal-800" href="/about"> About Us </a>
                   </li>
-                  <li>
-                    <a class=" transition  text-teal-400 hover:text-teal-800" href="/inventory"> Inventory </a>
-                  </li>
-                  
-      
-                  <li>
-                    <a class=" transition  text-teal-400 hover:text-teal-800" href="/blog"> Blog </a>
-                  </li>
+                 
                 </ul>
               </nav>
             </div>
@@ -50,6 +43,17 @@
                   </a>
                 </div>
               </div>
+
+              
+                <a
+                  class=""
+                  href="/account"
+                >
+                <div class=" h-8 w-8 rounded-full  bg-blue-400"></div>
+                </a>
+             
+
+            
       
               <div class="block md:hidden">
                 <button class="rounded bg-gray-100 p-2 text-gray-600 transition hover:text-gray-600color-text-teal">

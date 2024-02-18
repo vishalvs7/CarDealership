@@ -1,4 +1,4 @@
-<div class="w-[300px] h-[350px] rounded-md ">
+<div class="w-[300px] h-[350px] rounded-2xl ">
 
     <a href="#" class="group block overflow-hidden">
         <div class="relative  sm:h-[250px]">
@@ -22,8 +22,6 @@
       
           <div class=" flex items-center justify-between ">
             <p class="tracking-wide">$189.99</p>
-      
-            <p class="text-xs uppercase tracking-wide">6 Colors</p>
           </div>
         </div>
       </a>
