@@ -1,15 +1,22 @@
+<script>
+  import img1 from '../lib/images/img1.jpg'
+  import img2 from '../lib/images/img2.jpg'
+</script>
+
+
+
 <div class="w-[300px] h-[350px] rounded-2xl ">
 
     <a href="#" class="group block overflow-hidden">
         <div class="relative  sm:h-[250px]">
           <img
-            src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+            src={img1}
             alt=""
             class="absolute inset-0  w-[300px] object-cover opacity-100 group-hover:opacity-0"
           />
       
           <img
-            src="https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+            src={img2}
             alt=""
             class="absolute inset-0  w-[300px] object-cover opacity-0 group-hover:opacity-100"
           />

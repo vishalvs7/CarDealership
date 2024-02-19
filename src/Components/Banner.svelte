@@ -1,16 +1,33 @@
+<script>
+  import img3 from '../lib/images/img3.jpg'
+  import img2 from '../lib/images/img2.jpg'
+</script>
+
 <div>
 
-    <section class="bg-black text-white">
-        <div class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
-          <div class="mx-auto max-w-xl text-center">
-            <h1 class="text-3xl font-extrabold sm:text-5xl">
-              Understand User Flow.
-              <strong class="font-extrabold text-teal-400 sm:block"> Increase Conversion. </strong>
+
+
+
+
+ 
+
+    <section class="bg-black text-center  text-white">
+
+      
+        <div class="mx-auto  max-w-screen-xl flex justify-center items-center px-4 py-32 lg:flex lg:h-screen lg:items-center">
+
+          <img src={img3} class=" object-cover opacity-30 relative w-screen h-screen" alt="">
+  
+          <div class="mx-auto absolute max-w-xl text-center  justify-center bg-cover">
+
+            
+            <h1 class="text-3xl  font-extrabold sm:text-5xl">
+              Vishal Dealership 
+              <strong class="font-extrabold text-teal-400 sm:block"> Dream Cars </strong>
             </h1>
       
             <p class="mt-4 sm:text-xl/relaxed">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo tenetur fuga ducimus
-              numquam ea!
+              A collection of best super cars in your neighbourhood
             </p>
       
             <div class="mt-8 flex flex-wrap justify-center gap-4">

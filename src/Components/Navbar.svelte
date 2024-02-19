@@ -6,7 +6,7 @@
             <div class="md:flex md:items-center md:gap-12">
               <a class="block text-teal-600" href="/">
                 <span class="  sr-only">Home</span>
-                <h2 class=" text-white">CarDealership</h2>
+                <h2 class=" text-white">Vishal Dealership</h2>
               </a>
             </div>
       
@@ -29,7 +29,7 @@
               <div class="sm:flex sm:gap-4">
                 <a
                   class="rounded-md bg-teal-600 px-5 py-2.5 text-sm font-medium text-white shadow"
-                  href="/auth"
+                  href="/auth/signin"
                 >
                   Login
                 </a>
@@ -37,7 +37,7 @@
                 <div class="hidden  sm:flex">
                   <a
                     class="rounded-md  px-5 py-2.5 text-sm font-medium text-teal-400"
-                    href="/auth"
+                    href="/auth/signup"
                   >
                     Register
                   </a>
