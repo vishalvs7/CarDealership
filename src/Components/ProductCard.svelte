@@ -1,13 +1,16 @@
 <script>
   import img1 from '../lib/images/img1.jpg'
   import img2 from '../lib/images/img2.jpg'
+
 </script>
 
 
 
 <div class="w-[300px] h-[350px] rounded-2xl ">
 
-    <a href="#" class="group block overflow-hidden">
+
+
+    <a href="/" class="group block overflow-hidden">
         <div class="relative  sm:h-[250px]">
           <img
             src={img1}

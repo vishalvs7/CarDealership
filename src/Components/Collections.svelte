@@ -18,7 +18,7 @@
       
           <ul class="mt-8 grid grid-cols-1 gap-4 lg:grid-cols-3">
             <li>
-              <a href="#" class="group relative block">
+              <a href="/" class="group relative block">
                 <img
                   src={img1}
                   alt=""
@@ -38,7 +38,7 @@
             </li>
       
             <li>
-              <a href="#" class="group relative block">
+              <a href="/" class="group relative block">
                 <img
                   src={img2}
                   alt=""
@@ -58,7 +58,7 @@
             </li>
       
             <li class="lg:col-span-2 lg:col-start-2 lg:row-span-2 lg:row-start-1">
-              <a href="#" class="group relative block">
+              <a href="/" class="group relative block">
                 <img
                   src={img2}
                   alt=""

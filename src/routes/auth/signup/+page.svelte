@@ -42,7 +42,7 @@
             </p>
           </div>
   
-          <form action="#" class="mt-8 grid grid-cols-6 gap-6">
+          <form action="/" class="mt-8 grid grid-cols-6 gap-6">
 
             <a href="/auth/signup" class="col-span-6 mt-1 w-full rounded-md border border-gray-500 bg-grey-600 text-sm text-white shadow-sm flex">
                 <div class="px-4 py-2">

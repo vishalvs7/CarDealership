@@ -11,7 +11,7 @@
             <ul class="mt-8 flex justify-start gap-6 sm:mt-0 sm:justify-end">
               <li>
                 <a
-                  href="#"
+                  href="/"
                   rel="noreferrer"
                   target="_blank"
                   class=" transition hover:opacity-75"
@@ -30,7 +30,7 @@
       
               <li>
                 <a
-                  href="#"
+                  href="/"
                   rel="noreferrer"
                   target="_blank"
                   class=" transition hover:opacity-75"
@@ -49,7 +49,7 @@
       
               <li>
                 <a
-                  href="#"
+                  href="/"
                   rel="noreferrer"
                   target="_blank"
                   class=" transition hover:opacity-75"
@@ -66,7 +66,7 @@
       
               <li>
                 <a
-                  href="#"
+                  href="/"
                   rel="noreferrer"
                   target="_blank"
                   class=" transition hover:opacity-75"
@@ -97,12 +97,12 @@
       
               <ul class="mt-6 space-y-4 text-sm">
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> About </a>
+                  <a href="/" class=" transition hover:opacity-75"> About </a>
                 </li>
     
       
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> Accounts Review </a>
+                  <a href="/" class=" transition hover:opacity-75"> Accounts Review </a>
                 </li>
               </ul>
             </div>
@@ -112,11 +112,11 @@
       
               <ul class="mt-6 space-y-4 text-sm">
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> Contact </a>
+                  <a href="/" class=" transition hover:opacity-75"> Contact </a>
                 </li>
       
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> FAQs </a>
+                  <a href="/" class=" transition hover:opacity-75"> FAQs </a>
                 </li>
       
                 
@@ -130,11 +130,11 @@
                
       
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> Returns Policy </a>
+                  <a href="/" class=" transition hover:opacity-75"> Returns Policy </a>
                 </li>
       
                 <li>
-                  <a href="#" class=" transition hover:opacity-75"> Refund Policy </a>
+                  <a href="/" class=" transition hover:opacity-75"> Refund Policy </a>
                 </li>
       
                

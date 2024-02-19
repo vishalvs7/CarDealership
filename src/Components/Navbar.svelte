@@ -1,6 +1,6 @@
 <div>
 
-    <header class="bg-black">
+    <header class=" h-[70px]  border-b border-teal-950 bg-gradient-to-r from-teal-950 to-black bg-black ">
         <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
           <div class="flex h-16 items-center justify-between">
             <div class="md:flex md:items-center md:gap-12">

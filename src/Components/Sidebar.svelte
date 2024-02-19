@@ -11,7 +11,7 @@
             <div class="px-2">
               <div class="py-4">
                 <a
-                  href="#"
+                  href="/"
                   class="t group relative flex justify-center rounded bg-grey-900 px-2 py-1.5 text-teal-700"
                 >
                   <svg
@@ -45,7 +45,7 @@
               <ul class="space-y-1 border-t border-grey-500 pt-4">
                 <li>
                   <a
-                    href="#"
+                    href="/"
                     class="group relative flex justify-center rounded px-2 py-1.5 text-teal-400 hover:bg-gray-50 hover:text-gray-700"
                   >
                     <svg
@@ -73,7 +73,7 @@
       
                 <li>
                   <a
-                    href="#"
+                    href="/"
                     class="group relative flex justify-center rounded px-2 py-1.5 text-teal-400 hover:bg-gray-50 hover:text-gray-700"
                   >
                     <svg
@@ -101,7 +101,7 @@
       
                 <li>
                   <a
-                    href="#"
+                    href="/"
                     class="group relative flex justify-center rounded px-2 py-1.5 text-teal-400 hover:bg-gray-50 hover:text-gray-700"
                   >
                     <svg
@@ -129,7 +129,7 @@
       
                 <li>
                   <a
-                    href="#"
+                    href="/"
                     class="group relative flex justify-center rounded px-2 py-1.5 text-teal-400 hover:bg-gray-50 hover:text-gray-700"
                   >
                     <svg
@@ -160,7 +160,7 @@
         </div>
       
         <div class="sticky inset-x-0 bottom-0 border-t border-grey-500  p-2">
-          <form action="#">
+          <form action="/">
             <button
               type="submit"
               class="group relative flex w-full justify-center rounded-lg px-2 py-1.5 text-sm text-teal-400 hover:bg-gray-50 hover:text-teal-700"

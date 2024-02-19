@@ -1,5 +1,7 @@
 <script>
     import ProductCard from '../../Components/ProductCard.svelte'
+    
+  
 </script>
 
 
@@ -158,50 +160,33 @@
       
           <ul class="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             <li>
-             <ProductCard/>
-            </li>
-      
-            <li>
-                <ProductCard/>
-            </li>
-      
-            <li>
-                <ProductCard/>
-            </li>
-      
-            <li>
-                <ProductCard/>
+             <ProductCard   />
             </li>
             <li>
-                <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
-               <li>
-                <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
-         
-               <li>
-                   <ProductCard/>
-               </li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+             <li>
+              <ProductCard   />
+             </li>
+            
           </ul>
         </div>
 
@@ -216,7 +201,7 @@
 <ol class="flex justify-center gap-1 text-xs font-medium">
   <li>
     <a
-      href="#"
+      href="/"
       class="inline-flex size-8 items-center justify-center rounded border border-gray-100 bg-black text-white rtl:rotate-180"
     >
       <span class="sr-only">Prev Page</span>
@@ -237,7 +222,7 @@
 
   <li>
     <a
-      href="#"
+      href="/"
       class="block size-8 rounded border border-gray-100 bg-black text-center leading-8 text-white"
     >
       1
@@ -250,7 +235,7 @@
 
   <li>
     <a
-      href="#"
+      href="/"
       class="block size-8 rounded border border-gray-100 bg-black text-center leading-8 text-white"
     >
       3
@@ -259,7 +244,7 @@
 
   <li>
     <a
-      href="#"
+      href="/"
       class="block size-8 rounded border border-gray-100 bg-black text-center leading-8 text-white"
     >
       4
@@ -268,7 +253,7 @@
 
   <li>
     <a
-      href="#"
+      href="/"
       class="inline-flex size-8 items-center justify-center rounded border border-gray-100 bg-black text-white rtl:rotate-180"
     >
       <span class="sr-only">Next Page</span>
